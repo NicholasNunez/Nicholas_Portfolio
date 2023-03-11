@@ -6,4 +6,4 @@ Data analytics portfolio.
 - Grouped by summarized data by week of the year and month of the year.
 - Plotted data by month of year with error bars.
 
-![](AllWS.month.83-21.tiff)
+![](https://github.com/NicholasNunez/Nicholas_Portfolio/blob/main/images/AllWS.month.83-21.png)
