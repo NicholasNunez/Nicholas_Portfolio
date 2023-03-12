@@ -24,4 +24,3 @@ Data Analytics Portfolio
 - Calculated days between first symptoms and hospitilzation to show if this affected recovery and mortality rate.
 
 ![](/images/Covid%20trends.png)
-
