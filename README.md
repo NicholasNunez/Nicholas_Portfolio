@@ -17,3 +17,11 @@ Data Analytics Portfolio
 
 ![](/images/SiO2.color.png)
 ![](/images/K+1.color.png)
+
+# Project 3: COVID trend analysis using Power BI
+- Pulled Covid-19 data from kaggle.
+- Filtered out China to see most affected countries after the initial outbreak.
+- Calculated days between first symptoms and hospitilzation to show if this affected recovery and mortality rate.
+
+![](/images/Covid%20trends.png)
+
