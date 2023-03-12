@@ -36,3 +36,12 @@
 - This analysis demonstrated that patients born between 1920-1940 were the most active in using their healthcare and that the vast amount of beneficiaries are in the region directly south of Paris.
 
 ![](/images/French.chronic.conditions.png)
+
+
+# Project 5: Healthcare provider costs over time using Power BI
+- Pulled data from kaggle.
+- Demonstrated trend of increasing costs over time per expense.
+- Added map to demonstrate costs of each expense by country.
+- This analysis showed a trend of increasing costs for the company over time but that recent efforts to reduce expenses are working at a global scale. However, to continue the trend there could be some adjusting on a country to country basis.
+
+![](/images/healthcare.provider.costs.png)
