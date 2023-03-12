@@ -5,6 +5,7 @@
 - Joined data sets pulled from daymet for comparing three watersheds.
 - Grouped by summarized data by week of the year and month of the year.
 - Plotted data by month of year with error bars.
+- This analysis proved that seasonality was not influencing the chemical analysis data. 
 
 ![](/images/AllWS.month.83-21.png)
 
@@ -14,6 +15,7 @@
 - Binned data by region.
 - Calculated coefficient of variation.
 - Plotted solutes by data and plotted coefficient of variation by week of year. 
+- This analysis proved that there was an increase in the solute of interest during the time period of interest and that coefficient of variation could function as proxy for increase in solute
 
 ![](/images/SiO2.color.png)
 ![](/images/K+1.color.png)
@@ -22,5 +24,6 @@
 - Pulled Covid-19 data from kaggle.
 - Filtered out China to see most affected countries after the initial outbreak.
 - Calculated days between first symptoms and hospitilzation to show if this affected recovery and mortality rate.
+- This analysis showed an increase in mortality rate on the seventh day between symptoms and hospitilization. 
 
 ![](/images/Covid.trends.png)
