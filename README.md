@@ -16,4 +16,4 @@ Data Analytics Portfolio
 - Plotted solutes by data and plotted coefficient of variation by week of year. 
 
 ![](/images/SiO2.color.png)
-![](/K%2B1.color.png)
+![](/images/K%2B1.color.png)
