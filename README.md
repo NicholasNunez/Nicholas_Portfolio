@@ -15,7 +15,7 @@
 - Binned data by region.
 - Calculated coefficient of variation.
 - Plotted solutes by data and plotted coefficient of variation by week of year. 
-- This analysis proved that there was an increase in the solute of interest during the time period of interest and that coefficient of variation could function as a proxy for increase in solute
+- This analysis proved that there was an increase in the solute of interest during the time period of interest and that coefficient of variation could function as a proxy for increase in solute.
 
 ![](/images/SiO2.color.png)
 ![](/images/K+1.color.png)
