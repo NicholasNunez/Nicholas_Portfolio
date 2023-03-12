@@ -1,5 +1,5 @@
 # Nicholas Nunez 
-Data Analytics Portfolio.
+Data Analytics Portfolio
 
 # [Project 1: Precipitation analysis using R](https://github.com/NicholasNunez/precipitation-analysis-R)
 - Joined data sets pulled from daymet for comparing three watersheds.
