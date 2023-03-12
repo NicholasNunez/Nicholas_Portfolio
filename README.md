@@ -1,3 +1,6 @@
+# Nicholas David Nunez
+## Data Analytics Portfolio
+
 # [Project 1: Precipitation analysis using R](https://github.com/NicholasNunez/precipitation-analysis-R)
 - Joined data sets pulled from daymet for comparing three watersheds.
 - Grouped by summarized data by week of the year and month of the year.
@@ -20,4 +23,4 @@
 - Filtered out China to see most affected countries after the initial outbreak.
 - Calculated days between first symptoms and hospitilzation to show if this affected recovery and mortality rate.
 
-![](/images/Covid%20trends.png)
+![](/images/Covid trends.png)
