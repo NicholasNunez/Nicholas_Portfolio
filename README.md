@@ -27,3 +27,12 @@
 - This analysis showed an increase in mortality rate on the seventh day between symptoms and hospitilization. 
 
 ![](/images/Covid.trends.png)
+
+# Project 4: Chronic illnesses and amount reimbursed and deductible paid for patients in France using Power BI
+- Pulled data from kaggle.
+- Showed distribution of chronic illnesses.
+- Added map to demonstrate amount paid and which chronic illness is present by region.
+- Plotted amount in deductible and amount reimbursed to patients by their date of birth.
+- This analysis demonstrated that patients born between 1920-1940 were the most active in using their healthcare and that the vast amount of beneficiaries are in the region directly south of Paris.
+
+![](/images/French.chronic.conditions.png)
