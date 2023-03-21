@@ -45,3 +45,11 @@
 - This analysis showed a trend of increasing costs for the company over time but that recent efforts to reduce expenses are working at a global scale. However, to continue the trend there could be some adjusting on a country to country basis.
 
 ![](/images/healthcare.provider.costs.png)
+
+# Project 6: Healthcare job satisfaction by department using Tableau
+- Pulled data from kaggle.
+- Color coded by department.
+- Calculated average years worked in comparison to job satisfaction.
+- The neurology department showed the highest amount of job satisfaction despite its low employee count. Also we can clearly see the highest amount of job satisfaction and time worked at the company was attributed to roles in the administrative level. 
+
+![](/images/Healthcare.job.satisfaction.png)
