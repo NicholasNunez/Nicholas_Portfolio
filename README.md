@@ -53,3 +53,6 @@
 - The neurology department showed the highest amount of job satisfaction despite its low employee count. Also we can clearly see the highest amount of job satisfaction and time worked at the company was attributed to roles in the administrative level. 
 
 ![](/images/Healthcare.job.satisfaction.png)
+
+# [Project 7: SQLZOO Quiz 1 Answers](https://github.com/NicholasNunez/sqlzoo-quiz-1/blob/main/answers)
+- Answers for quiz 1 of the SELECT section of SQLZOO.
